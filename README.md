@@ -30,9 +30,9 @@
 | STANAG 4671 | UNMANNED AIRCRAFT SYSTEMS AIRWORTHINESS REQUIREMENTS (USAR)                     | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4671) AEP-4671[²](AEP/AEP-4671_EDB_V1_E.pdf) |
 | STANAG 4703 | LIGHT UNMANNED AIRCRAFT SYSTEMS AIRWORTHINESS REQUIREMENTS                              | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4703) AEP-83[²](AEP/AEP-83_EDC_V1_E.pdf) |
 
-## ISR related
+## ISR related[¹](https://www.aofs.org/wp-content/uploads/2013/10/131010.08-Gemma-GMSpazio.pdf)
 
-![NATO ISR Interoperability Architecture[¹](https://www.aofs.org/wp-content/uploads/2013/10/131010.08-Gemma-GMSpazio.pdf)](NATO_ISR_Interoperability_Architecture.png)
+![NATO ISR Interoperability Architecture](NATO_ISR_Interoperability_Architecture.png)
 
 # US military standards
 
