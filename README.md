@@ -25,6 +25,7 @@
 | STANAG 4452 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | AOP-52[¹](https://www.cto.mil/wp-content/uploads/2025/08/AOP-52-EDB-V1E.pdf) [²](AOP/AOP-52-EDB-V1E.pdf) |
 | STANAG 4586 | STANDARD INTERFACES OF UA CONTROL SYSTEM (UCS) FOR NATO UA INTEROPERABILITY    | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4586) AEP-84[²](AEP/AEP-84_VOLI_EDA_V1_E.pdf) |
 | STANAG 4626 | MODULAR AND OPEN AVIONICS ARCHITECTURES PART I/II - ARCHITECTURE/SOFTWARE               | [¹](http://everyspec.com/NATO/NATO-STANAG/STANAG_4626_part_I_DRAFT-1_Architecture_6299/) |
+| STANAG 4671 | UNMANNED AIRCRAFT SYSTEMS AIRWORTHINESS REQUIREMENTS (USAR)                     | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4671) [²](AEP/AEP-4671_EDB_V1_E.pdf) |
 | STANAG 4703 | LIGHT UNMANNED AIRCRAFT SYSTEMS AIRWORTHINESS REQUIREMENTS                              | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4703) AEP-83[²](AEP/AEP-83_EDC_V1_E.pdf) |
 
 
