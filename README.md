@@ -19,7 +19,7 @@
 
 | TYPE        |  TITLE         | URL |
 |-------------|----------------|-----|
-| STANAG 3838 / MIL-STD-1553 ('MIL-Bus') | DIGITAL TIME DIVISION COMMAND/RESPONSE MULTIPLEX DATA BUS - AAVSP-03 EDITION A | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36973) [²](MIL-STD/MIL-STD-1553C.pdf) |
+| STANAG 3838 / MIL-STD-1553 ('MIL-Bus') | DIGITAL TIME DIVISION COMMAND/RESPONSE MULTIPLEX DATA BUS - AAVSP-03 EDITION A | MIL-STD-1553[¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36973) [²](MIL-STD/MIL-STD-1553C.pdf) |
 | MIL-STD-1773 | Fiber Optics Mechanization of an Aircraft Internal Time Division Command/Response Multiplex Data Bus | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37131) [²](MIL-STD/MIL-STD-1773.pdf) |
 | STANAG 3910 ('EFABus') | HIGH SPEED DATA TRANSMISSION UNDER STANAG 3838 AVS OR FIBRE OPTIC EQUIVALENT CONTROL | |
 | STANAG 4452 / AOP-52 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | AOP-52[¹](https://www.cto.mil/wp-content/uploads/2025/08/AOP-52-EDB-V1E.pdf) [²](AOP/AOP-52-EDB-V1E.pdf) |
