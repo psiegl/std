@@ -18,7 +18,7 @@
 
 | TYPE        |  TITLE         |    REVISION        | URL |
 |-------------|----------------|--------------------|-----|
-| STANAG 3838 / MIL-STD-1553   | Digital Time Division Command/Response Multiplex Data Bus              | Rev C | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36973) [²](MIL-STD/MIL-STD-1553C.pdf) |
+| STANAG 3838 / MIL-STD-1553 ('MIL-Bus') | Digital Time Division Command/Response Multiplex Data Bus              | Rev C | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36973) [²](MIL-STD/MIL-STD-1553C.pdf) |
 | MIL-STD-1773 | Fiber Optics Mechanization of an Aircraft Internal Time Division Command/Response Multiplex Data Bus | | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37131) [²](MIL-STD/MIL-STD-1773.pdf) |
 | STANAG 3910 ('EFABus') | High Speed Data Transmission Under STANAG 3838 or Fibre Optic Equivalent Control | | |
 | STANAG 4452 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | | |
