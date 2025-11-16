@@ -18,3 +18,4 @@
 |-------------|----------------|--------------------|-----|
 | STANAG 4452 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS |                     | |
 | AOP-52      | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | Ed. B Ver. 1 Nov 16 | [¹](https://www.cto.mil/wp-content/uploads/2025/08/AOP-52-EDB-V1E.pdf) [²](AOP/AOP-52-EDB-V1E.pdf) |
+| RCC Doc 466-15 | AIRBORNE NETWORK CAMERA STANDARD | Jun 15 | [¹](https://www.trmc.osd.mil/wiki/download/attachments/113019941/466-15_Airborne_Network_Camera_Standard.pdf?api=v2) [²](RCC/466-15_Airborne_Network_Camera_Standard.pdf)
