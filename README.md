@@ -23,7 +23,7 @@
 | STANAG 3910 ('EFABus') | High Speed Data Transmission Under STANAG 3838 or Fibre Optic Equivalent Control | | |
 | STANAG 4452 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | | |
 | AOP-52      | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | Ed. B Ver. 1 Nov 16 | [¹](https://www.cto.mil/wp-content/uploads/2025/08/AOP-52-EDB-V1E.pdf) [²](AOP/AOP-52-EDB-V1E.pdf) |
-| STANAG 4626 | MODULAR AND OPEN AVIONICS ARCHITECTURES PART I - ARCHITECTURE                           | Draft 1 | [¹](http://everyspec.com/NATO/NATO-STANAG/STANAG_4626_part_I_DRAFT-1_Architecture_6299/) |
+| STANAG 4626 | MODULAR AND OPEN AVIONICS ARCHITECTURES PART I/II - ARCHITECTURE/SOFTWARE               | Draft 1 | [¹](http://everyspec.com/NATO/NATO-STANAG/STANAG_4626_part_I_DRAFT-1_Architecture_6299/) |
 
 
 # US military standards
