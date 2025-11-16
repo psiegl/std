@@ -7,6 +7,7 @@
 | SAE <b>ARP4754B</b> / EUROCAE ED-79B | Guidelines for Development of Civil Aircraft and Systems                                          | |
 | SAE ARP4761A / EUROCAE ED-135        | Guidelines for Conducting the Safety Assessment Process on Civil Aircraft, Systems, and Equipment | |
 | SAE ARP5151A                         | Safety Assessment of General Aviation Airplanes and Rotorcraft in Commercial Service              | |
+| SAE ARP6983 / EUROCAE ED-324         | Process Standard for Development and Certification/Approval of Aeronautical Safety-Related Products Implementing ML | |
 | RTCA <b>DO-178C</b> / EUROCAE ED-12C | Software Considerations in Airborne Systems and Equipment Certification                           | |
 | RTCA <b>DO-248C</b> / EUROCAE ED-94C | Supporting Information for DO-178C / ED-12C and DO-278A / ED-109A                                 | |
 | RTCA DO-254 / EUROCAE ED-80          | Design Assurance Guidance for Airborne Electronic Hardware                                        | |
@@ -31,6 +32,7 @@
 | TYPE        |  TITLE         |    REVISION        | URL |
 |-------------|----------------|--------------------|-----|
 | RCC 466-15  | AIRBORNE NETWORK CAMERA STANDARD | Jun 15 | [¹](https://www.trmc.osd.mil/wiki/download/attachments/113019941/466-15_Airborne_Network_Camera_Standard.pdf?api=v2) [²](RCC/466-15_Airborne_Network_Camera_Standard.pdf)
+| MIL-STD-882 | System Safety                    | Rev E  | [¹](https://www.nde-ed.org/NDEEngineering/SafeDesign/MIL-STD-882E.pdf) [²](MIL-STD/MIL-STD-882E.pdf) |
 
 
 # Outdated standards
