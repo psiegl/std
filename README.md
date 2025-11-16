@@ -19,9 +19,9 @@
 
 | TYPE        |  TITLE         |    REVISION        | URL |
 |-------------|----------------|--------------------|-----|
-| STANAG 3838 / MIL-STD-1553 ('MIL-Bus') | Digital Time Division Command/Response Multiplex Data Bus              | Rev C | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36973) [²](MIL-STD/MIL-STD-1553C.pdf) |
+| STANAG 3838 / MIL-STD-1553 ('MIL-Bus') | DIGITAL TIME DIVISION COMMAND/RESPONSE MULTIPLEX DATA BUS - AAVSP-03 EDITION A | Rev C | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36973) [²](MIL-STD/MIL-STD-1553C.pdf) |
 | MIL-STD-1773 | Fiber Optics Mechanization of an Aircraft Internal Time Division Command/Response Multiplex Data Bus | | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37131) [²](MIL-STD/MIL-STD-1773.pdf) |
-| STANAG 3910 ('EFABus') | High Speed Data Transmission Under STANAG 3838 or Fibre Optic Equivalent Control | | |
+| STANAG 3910 ('EFABus') | HIGH SPEED DATA TRANSMISSION UNDER STANAG 3838 AVS OR FIBRE OPTIC EQUIVALENT CONTROL | | |
 | STANAG 4452 / AOP-52 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | Ed. B Ver. 1 Nov 16 | AOP-52[¹](https://www.cto.mil/wp-content/uploads/2025/08/AOP-52-EDB-V1E.pdf) [²](AOP/AOP-52-EDB-V1E.pdf) |
 | STANAG 4586 / AEP-84 | STANDARD INTERFACES OF UA CONTROL SYSTEM (UCS) FOR NATO UA INTEROPERABILITY | Ed 4 | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4586) AEP-84[²](AEP/AEP-84_VOLI_EDA_V1_E.pdf) |
 | STANAG 4626 | MODULAR AND OPEN AVIONICS ARCHITECTURES PART I/II - ARCHITECTURE/SOFTWARE               | Draft 1 | [¹](http://everyspec.com/NATO/NATO-STANAG/STANAG_4626_part_I_DRAFT-1_Architecture_6299/) |
