@@ -5,7 +5,7 @@
 | ARINC 429                            | MARK 33 DIGITAL INFORMATION TRANSFER SYSTEM (DITS) PART 1 FUNCTIONAL DESCRIPTION, ELECTRICAL INTERFACE, LABEL ASSIGNMENTS AND WORD FORMATS | [¹](https://toddheffley.com/wordpress/wp-content/uploads/2014/07/Arinc429WordList-copy.pdf) |
 | ARINC 653                            | AVIONICS APPLICATION SOFTWARE STANDARD INTERFACE PART 1 – REQUIRED SERVICES                       | [¹](https://mail.kia.prz.edu.pl/~ssamolej/vxworks/ARINC_653P1-2.pdf) |
 | SAE <b>ARP4754B</b> / EUROCAE ED-79B | Guidelines for Development of Civil Aircraft and Systems                                          | |
-| SAE ARP4761A / EUROCAE ED-135        | Guidelines for Conducting the Safety Assessment Process on Civil Aircraft, Systems, and Equipment | |
+| SAE ARP4761A / EUROCAE ED-135A       | Guidelines for Conducting the Safety Assessment Process on Civil Aircraft, Systems, and Equipment | |
 | SAE ARP5151A                         | Safety Assessment of General Aviation Airplanes and Rotorcraft in Commercial Service              | |
 | SAE ARP6983 / EUROCAE ED-324         | Process Standard for Development and Certification/Approval of Aeronautical Safety-Related Products Implementing ML | |
 | RTCA <b>DO-178C</b> / EUROCAE ED-12C | Software Considerations in Airborne Systems and Equipment Certification                           | |
@@ -22,8 +22,8 @@
 | STANAG 3838 / MIL-STD-1553 ('MIL-Bus') | Digital Time Division Command/Response Multiplex Data Bus              | Rev C | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36973) [²](MIL-STD/MIL-STD-1553C.pdf) |
 | MIL-STD-1773 | Fiber Optics Mechanization of an Aircraft Internal Time Division Command/Response Multiplex Data Bus | | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37131) [²](MIL-STD/MIL-STD-1773.pdf) |
 | STANAG 3910 ('EFABus') | High Speed Data Transmission Under STANAG 3838 or Fibre Optic Equivalent Control | | |
-| STANAG 4452 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | | |
-| AOP-52      | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | Ed. B Ver. 1 Nov 16 | [¹](https://www.cto.mil/wp-content/uploads/2025/08/AOP-52-EDB-V1E.pdf) [²](AOP/AOP-52-EDB-V1E.pdf) |
+| STANAG 4452 / AOP-52 | GUIDANCE ON SOFTWARE SAFETY DESIGN AND ASSESSMENT OF MUNITION-RELATED COMPUTING SYSTEMS | Ed. B Ver. 1 Nov 16 | AOP-52[¹](https://www.cto.mil/wp-content/uploads/2025/08/AOP-52-EDB-V1E.pdf) [²](AOP/AOP-52-EDB-V1E.pdf) |
+| STANAG 4586 / AEP-84 | STANDARD INTERFACES OF UA CONTROL SYSTEM (UCS) FOR NATO UA INTEROPERABILITY | Ed 4 | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4586) |
 | STANAG 4626 | MODULAR AND OPEN AVIONICS ARCHITECTURES PART I/II - ARCHITECTURE/SOFTWARE               | Draft 1 | [¹](http://everyspec.com/NATO/NATO-STANAG/STANAG_4626_part_I_DRAFT-1_Architecture_6299/) |
 
 
