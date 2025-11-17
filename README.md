@@ -38,8 +38,9 @@
 
 | TYPE        |  TITLE         |    REVISION        | URL |
 |-------------|----------------|--------------------|-----|
-| RCC 466-15  | AIRBORNE NETWORK CAMERA STANDARD | Jun 15 | [¹](https://www.trmc.osd.mil/wiki/download/attachments/113019941/466-15_Airborne_Network_Camera_Standard.pdf?api=v2) [²](RCC/466-15_Airborne_Network_Camera_Standard.pdf)
-| MIL-STD-882 | System Safety                    | Rev E  | [¹](https://www.nde-ed.org/NDEEngineering/SafeDesign/MIL-STD-882E.pdf) [²](MIL-STD/MIL-STD-882E.pdf) |
+| RCC 466-15  | AIRBORNE NETWORK CAMERA STANDARD | [¹](https://www.trmc.osd.mil/wiki/download/attachments/113019941/466-15_Airborne_Network_Camera_Standard.pdf?api=v2) [²](RCC/466-15_Airborne_Network_Camera_Standard.pdf)
+| MIL-STD-882E | System Safety                    | [¹](https://www.nde-ed.org/NDEEngineering/SafeDesign/MIL-STD-882E.pdf) [²](MIL-STD/MIL-STD-882E.pdf) |
+| MIL-STD-1760F | AIRCRAFT/STORE ELECTRICAL INTERCONNECTION SYSTEM | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37120) [²](MIL-STD/MIL-STD-1760.pdf) |
 
 
 # Outdated standards
