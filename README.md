@@ -31,6 +31,7 @@
 | STANAG 4626 | MODULAR AND OPEN AVIONICS ARCHITECTURES PART I/II - ARCHITECTURE/SOFTWARE               | [¹](http://everyspec.com/NATO/NATO-STANAG/STANAG_4626_part_I_DRAFT-1_Architecture_6299/) |
 | STANAG 4671 | UNMANNED AIRCRAFT SYSTEMS AIRWORTHINESS REQUIREMENTS (USAR)                     | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4671) AEP-4671[²](AEP/AEP-4671_EDB_V1_E.pdf) |
 | STANAG 4703 | LIGHT UNMANNED AIRCRAFT SYSTEMS AIRWORTHINESS REQUIREMENTS                              | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4703) AEP-83[²](AEP/AEP-83_EDC_V1_E.pdf) |
+| STANAG 4811 | SENSE AND AVOID FOR UNMANNED AIRCRAFT SYSTEMS - AEP-107 EDITION B                       | [¹](https://nso.nato.int/nso/nsdd/main/standards?search=4811) |
 
 ### Network
 
