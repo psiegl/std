@@ -2,8 +2,9 @@
 
 | TYPE                                 |  TITLE         | URL |
 |--------------------------------------|----------------|-----|
-| ARINC 429                            | MARK 33 DIGITAL INFORMATION TRANSFER SYSTEM (DITS) PART 1 FUNCTIONAL DESCRIPTION, ELECTRICAL INTERFACE, LABEL ASSIGNMENTS AND WORD FORMATS | [¹](https://toddheffley.com/wordpress/wp-content/uploads/2014/07/Arinc429WordList-copy.pdf) |
-| ARINC 653                            | AVIONICS APPLICATION SOFTWARE STANDARD INTERFACE PART 1 – REQUIRED SERVICES                       | [¹](https://mail.kia.prz.edu.pl/~ssamolej/vxworks/ARINC_653P1-2.pdf) |
+| ARINC 429 PART 1                     | MARK 33 DIGITAL INFORMATION TRANSFER SYSTEM (DITS) PART 1 FUNCTIONAL DESCRIPTION, ELECTRICAL INTERFACE, LABEL ASSIGNMENTS AND WORD FORMATS | [¹](https://toddheffley.com/wordpress/wp-content/uploads/2014/07/Arinc429WordList-copy.pdf) |
+| ARINC 664 Part 7                     | AIRCRAFT DATA NETWORK PART 7 AVIONICS FULL DUPLEX SWITCHED ETHERNET (AFDX) NETWORK                | [¹](https://mail.kia.prz.edu.pl/~ssamolej/vxworks/ARINC_664P7.pdf) |
+| ARINC 653 Part 1-2                   | AVIONICS APPLICATION SOFTWARE STANDARD INTERFACE PART 1 – REQUIRED SERVICES                       | [¹](https://mail.kia.prz.edu.pl/~ssamolej/vxworks/ARINC_653P1-2.pdf) |
 | SAE <b>ARP4754B</b> / EUROCAE ED-79B | Guidelines for Development of Civil Aircraft and Systems                                          | |
 | SAE ARP4761A / EUROCAE ED-135A       | Guidelines for Conducting the Safety Assessment Process on Civil Aircraft, Systems, and Equipment | |
 | SAE ARP5151A                         | Safety Assessment of General Aviation Airplanes and Rotorcraft in Commercial Service              | |
