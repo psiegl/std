@@ -1,5 +1,7 @@
 # Civilian standards
 
+ARINC[¹](https://www.herculesebooks.com/index/ARINC.PDF)
+
 | TYPE                                 |  TITLE         | URL |
 |--------------------------------------|----------------|-----|
 | ARINC 429 PART 1                     | MARK 33 DIGITAL INFORMATION TRANSFER SYSTEM (DITS) PART 1 FUNCTIONAL DESCRIPTION, ELECTRICAL INTERFACE, LABEL ASSIGNMENTS AND WORD FORMATS | [¹](https://toddheffley.com/wordpress/wp-content/uploads/2014/07/Arinc429WordList-copy.pdf) |
