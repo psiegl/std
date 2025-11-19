@@ -3,10 +3,17 @@
 | TYPE                                 |  TITLE         | URL |
 |--------------------------------------|----------------|-----|
 | ARINC 429 PART 1                     | MARK 33 DIGITAL INFORMATION TRANSFER SYSTEM (DITS) PART 1 FUNCTIONAL DESCRIPTION, ELECTRICAL INTERFACE, LABEL ASSIGNMENTS AND WORD FORMATS | [¹](https://toddheffley.com/wordpress/wp-content/uploads/2014/07/Arinc429WordList-copy.pdf) |
+| ARINC 600-20                         | AIR TRANSPORT AVIONICS EQUIPMENT INTERFACES                                                       | [¹](https://studylib.net/doc/25619567/air-transport-avionics-equipment-interfaces---arinc-sp%C3%A9ci...) |
 | ARINC 651-1                          | DESIGN GUIDANCE FOR INTEGRATED MODULAR AVIONICS                                                   | |
 | ARINC 653 Part 1-2                   | AVIONICS APPLICATION SOFTWARE STANDARD INTERFACE PART 1 – REQUIRED SERVICES                       | [¹](https://mail.kia.prz.edu.pl/~ssamolej/vxworks/ARINC_653P1-2.pdf) |
 | ARINC 664 Part 7                     | AIRCRAFT DATA NETWORK PART 7 AVIONICS FULL DUPLEX SWITCHED ETHERNET (AFDX) NETWORK                | [¹](https://mail.kia.prz.edu.pl/~ssamolej/vxworks/ARINC_664P7.pdf) |
+| ARINC 615-4                          | AIRBORNE COMPUTER HIGH SPEED DATA LOADER                                                          | |
+| ARINC 615A-4                         | SOFTWARE DATA LOADER USING ETHERNET INTERFACE                                                     | |
+| ARINC 618-6                          | AIR/GROUND CHARACTER-ORIENTED PROTOCOL SPECIFICATION                                              | |
+| ARINC 619-3                          | ACARS PROTOCOLS FOR AVIONIC END SYSTEMS                                                           | |
 | ARINC 818-3                          | AVIONICS DIGITAL VIDEO BUS (ADVB) HIGH DATA RATE                                                  | |
+| ARINC 826                            | SOFTWARE DATA LOADER USING CAN INTERFACE                                                          | |
+| ARINC 838                            | LOADABLE SOFTWARE PART DEFINITION FORMAT                                                          | |
 | SAE AS6802                           | TIME-TRIGGERED ETHERNET                                                                           | |
 | SAE <b>ARP4754B</b> / EUROCAE ED-79B | Guidelines for Development of Civil Aircraft and Systems                                          | |
 | SAE ARP4761A / EUROCAE ED-135A       | Guidelines for Conducting the Safety Assessment Process on Civil Aircraft, Systems, and Equipment | |
