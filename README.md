@@ -65,6 +65,11 @@ ARINC[¹](https://www.herculesebooks.com/index/ARINC.PDF)
 | MIL-STD-882E  | SYSTEM SAFETY PROGRAM REQUIREMENTS               | [¹](https://www.nde-ed.org/NDEEngineering/SafeDesign/MIL-STD-882E.pdf) [²](MIL-STD/MIL-STD-882E.pdf) |
 | MIL-STD-1760F | AIRCRAFT/STORE ELECTRICAL INTERCONNECTION SYSTEM | [¹](https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=37120) [²](MIL-STD/MIL-STD-1760.pdf) |
 
+# Further of interest
+
+| TYPE          |  TITLE         |  URL |
+|---------------|----------------|------|
+| STANAG 3350   | Analogue Video Standard for Aircraft System Applications | |
 
 # Outdated standards
 
